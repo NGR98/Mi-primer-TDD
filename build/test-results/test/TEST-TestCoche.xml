@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCoche" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-04-02T10:07:22" hostname="DESKTOP-304D6JK" time="0.019">
+  <properties/>
+  <testcase name="test_crear_un_coche_su_velocidad_es_cero()" classname="TestCoche" time="0.016"/>
+  <testcase name="test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero()" classname="TestCoche" time="0.001"/>
+  <testcase name="test_al_acelerar_un_coche_su_velocidad_aumenta()" classname="TestCoche" time="0.001"/>
+  <testcase name="test_al_decelerar_un_coche_su_velocidad_disminuye()" classname="TestCoche" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
